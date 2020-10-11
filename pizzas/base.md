@@ -1,13 +1,13 @@
  # pizza base
 
- ##Ingredients
+ ## Ingredients
 
- -  4 cup of flour
+ - 4 cup of flour
  - dry yeast
  - 2 cup of water
 
  ## Steps
 
 - mix everythin
--wait a bit 
+- wait a bit 
 - cook
