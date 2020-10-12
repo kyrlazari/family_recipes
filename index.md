@@ -7,3 +7,4 @@ Set of recipes as given by my grandma.
   - [toppings](./pizzas/toppings.md)
 - sauces (TODO)
 - spreads (TODO)
+- pies
